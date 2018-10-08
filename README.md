@@ -1,2 +1,2 @@
 # MySQL
-Scripts for study
+Scripts for practice Mysql
